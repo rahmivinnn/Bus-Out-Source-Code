@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "648289258681",
+    "project_id": "ig-bus-out",
+    "storage_bucket": "ig-bus-out.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648289258681:android:bba41a86d2ded01fcc5f68",
+        "android_client_info": {
+          "package_name": "com.ig.bus.out"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwW0dMoZ2KO-R-zGyxHEMz1Hq_zUV5mEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-7573138946716036~1099521412"
+    }
+  ],
+  "configuration_version": "1"
+}
